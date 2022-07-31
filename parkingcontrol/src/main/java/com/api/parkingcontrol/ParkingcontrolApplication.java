@@ -9,5 +9,5 @@ public class ParkingcontrolApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ParkingcontrolApplication.class, args);
 	}
-
+	
 }
